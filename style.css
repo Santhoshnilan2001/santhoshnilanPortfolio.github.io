@@ -1,0 +1,43 @@
+.body{
+    background-color: black;
+}
+.about{
+    background-color: lightseagreen;
+    margin: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+}
+.introduction{
+    margin: 10px;
+}
+.image{
+    background-color: darkblue;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+}
+.skills_over_view h1{
+    color: white;
+}
+.skills_over_view p{
+    color: lightblue;
+}
+
+.skill_card{
+    border: 2px solid rgb(23, 66, 64);
+    margin: 5px;
+    border-radius: 10px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.skill_card_h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    color: lightblue;
+}
